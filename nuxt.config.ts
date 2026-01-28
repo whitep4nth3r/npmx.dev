@@ -88,6 +88,7 @@ export default defineNuxtConfig({
     '/about': { prerender: true },
     '/settings': { prerender: true },
     // proxy for insights
+    '/blog/**': { isr: true, prerender: true },
     '/_v/script.js': { proxy: 'https://npmx.dev/_vercel/insights/script.js' },
     '/_v/view': { proxy: 'https://npmx.dev/_vercel/insights/view' },
     '/_v/event': { proxy: 'https://npmx.dev/_vercel/insights/event' },
