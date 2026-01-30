@@ -14,7 +14,7 @@ useSeoMeta({
 })
 </script>
 <template>
-  <main class="container w-full">
+  <main class="container w-full py-8">
     <article class="prose dark:prose-invert mx-auto">
       <slot />
     </article>

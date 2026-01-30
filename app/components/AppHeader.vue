@@ -78,21 +78,6 @@ onKeyStroke('.', e => {
           <li v-if="isConnected && npmUser" class="flex items-center">
             <HeaderOrgsDropdown :username="npmUser" />
           </li>
-          <li class="flex items-center">
-            <NuxtLink
-              to="/blog"
-              class="link-subtle font-mono text-sm inline-flex items-center gap-2"
-              aria-keyshortcuts="."
-            >
-              {{ $t('nav.blog') }}
-              <kbd
-                class="hidden sm:inline-flex items-center justify-center w-5 h-5 text-xs bg-bg-muted border border-border rounded"
-                aria-hidden="true"
-              >
-                .
-              </kbd>
-            </NuxtLink>
-          </li>
         </ul>
       </div>
 
