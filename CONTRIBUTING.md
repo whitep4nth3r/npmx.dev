@@ -8,11 +8,16 @@ Thank you for your interest in contributing! ❤️ This document provides guide
 
 ## Goals
 
-We want to create 'a fast, modern browser for the npm registry.' This means, among other things:
+The goal of [npmx.dev](https://npmx.dev) is to build a fast, modern browser for the npm registry.
 
-- We don't aim to replace the [npmjs.com](https://www.npmjs.com/) registry, just provide a better UI and DX.
-- Layout shift, flakiness, slowness is The Worst. We need to continually iterate to create the most performant, best DX possible.
-- We want to provide information in the best way. We don't want noise, cluttered display, or confusing UI. If in doubt: choose simplicity.
+We're not replacing the [npmjs.com](https://www.npmjs.com/) registry, but instead providing an elevated developer experience through a fast, modern UI.
+
+What npmx offers:
+
+- **Speed** &ndash; Fast searching, filtering, and navigation.
+- **Simplicity** &ndash; Get the information you need when you need it in an intuitive UI.
+- **Compatibility** &ndash; Replace `npmjs.com` with `xnpmjs.com` or `npmx.dev` in any URL and it just works.
+- **Enhanced admin experience** &ndash; Manage your packages, teams, and organizations from the browser, powered by your local npm CLI.
 
 ## Table of Contents
 
@@ -147,6 +152,10 @@ When committing changes, try to keep an eye out for unintended formatting update
 To help with this, the project uses `oxfmt` to handle formatting via a pre-commit hook. The hook will automatically reformat files when needed. If something can’t be fixed automatically, it will let you know what needs to be updated before you can commit.
 
 If you want to get ahead of any formatting issues, you can also run `pnpm lint:fix` before committing to fix formatting across the whole project.
+
+### npmx name
+
+If adding the name of the project to anywhere in the UI, use `npmx` in all lowercase letters.
 
 ### TypeScript
 
