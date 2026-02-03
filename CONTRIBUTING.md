@@ -155,7 +155,7 @@ If you want to get ahead of any formatting issues, you can also run `pnpm lint:f
 
 ### npmx name
 
-If adding the name of the project to anywhere in the UI, use `npmx` in all lowercase letters.
+When adding the name of the project to anywhere in the UI, use `npmx` in all lowercase letters.
 
 ### TypeScript
 
