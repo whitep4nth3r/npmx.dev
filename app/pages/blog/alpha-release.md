@@ -8,7 +8,7 @@ authors:
     blueskyHandle: patak.dev
 title: "Announcing npmx: a fast, modern browser for the npm registry"
 tags: ["OpenSource", "Release"]
-excerpt: "npmx is an open-source project stewarded by a rapidly growing community. It's built for open-source developers, and by
+excerpt: "npmx is an open-source project built by a rapidly growing community. It's for open-source developers, and by
 extension, everyone who works in the JavaScript ecosystem."
 date: "2026-03-03"
 slug: "alpha-release"
