@@ -28,7 +28,7 @@ developers discover packages and make informed decisions about the packages they
 
 At the heart of npmx is the web development community. To this end, we're also building rich social features into npmx
 on top of the [AT Protocol](https://atproto.com/), an open, decentralized network for building social applications. We
-want to make it easier for developers to connect with each other, share their work, and collaborate on projects, and,
+want to make it easier for developers to connect with each other, share their work, collaborate on projects, and,
 ultimately, to build a more vibrant and inclusive web development community through the power of the ecosystem and open
 source.
 
