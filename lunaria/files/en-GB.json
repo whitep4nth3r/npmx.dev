@@ -230,7 +230,8 @@
         "important": "Important",
         "warning": "Warning",
         "caution": "Caution"
-      }
+      },
+      "copy_as_markdown": "Copy README as Markdown"
     },
     "provenance_section": {
       "title": "Provenance",
@@ -938,6 +939,10 @@
         "downloads": {
           "label": "Downloads/wk",
           "description": "Weekly download count"
+        },
+        "totalLikes": {
+          "label": "Likes",
+          "description": "Number of likes"
         },
         "lastUpdated": {
           "label": "Published",
