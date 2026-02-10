@@ -28,9 +28,8 @@ npmx is about speed and simplicity: it's a suite of tools to make package manage
 surfaces valuable data insights coupled with power-user features to help developers discover packages and make informed
 decisions about the packages they choose to use.
 
-At the heart of npmx is the web development community. To this end, we're also building rich social features into npmx
-on top of the [AT Protocol](https://atproto.com/), an open, decentralized network for building social applications. We
-want to make it easier for developers to connect with each other, share their work, collaborate on projects, and
+At the heart of npmx is the web development community. To this end, we're also integrating rich social features into npmx
+to make it easier for developers to connect with each other, share their work, collaborate on projects, and
 ultimately, to build a more vibrant and inclusive web development community through the power of the ecosystem and open
 source.
 
